@@ -14,6 +14,9 @@ namespace MyGitRepo
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Array initialization and declaration 
+        /// </summary>
         private static void ArrayExample()
         {
             int[] arr = { 1, 2, 3, 4, 5 };
